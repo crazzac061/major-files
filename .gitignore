@@ -11,7 +11,7 @@
 # Optional: keep other dotfiles if you need them
 !/.gitattributes
 !/.gitignore
-
+!/.py 
 # End of file*.diff
 *.orig
 *.patch
